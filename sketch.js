@@ -190,6 +190,7 @@ function spawnObstacles() {
     //add each obstacle to the group
     obstaclesGroup.add(obstacle);
   }
+  text("working fine", width-20, height-30);
 }
 
 function reset(){
