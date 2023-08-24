@@ -83,7 +83,7 @@ function setup() {
 
 function draw() {
   //trex.debug = true;
-  frameRate(80);
+  frameRate(500);
   background(backgroundImg);
   textSize(20);
   fill("black")
